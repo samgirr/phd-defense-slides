@@ -1,27 +1,9 @@
 # PhD defense — Samuel Girard
 
-51 slides with presenter-controlled animations, plus a PDF reading copy.
+[Download V2, the current animated presentation](https://github.com/samgirr/phd-defense-slides/releases/download/v2.0.0/defense_v2.zip). Extract the ZIP and open `defense_v2.html` in a browser. It contains 48 main slides and three Q&A backups and works offline.
 
-## Download and present
+[Download V1, including the PDF reading copy](https://github.com/samgirr/phd-defense-slides/releases/download/v1.0.1/defense_for_sharing.zip). Extract the ZIP and open `defense_full.html` or `defense_full.pdf`.
 
-**[Download the complete presentation package](https://github.com/samgirr/phd-defense-slides/releases/latest/download/defense_for_sharing.zip)**
-
-1. Download and extract the ZIP.
-2. Open `defense_full.html` in a web browser.
-3. Enter the browser’s full-screen mode to present.
-
-Everything is embedded: the deck works offline, with no installation required.
-
-### Controls
-
-- **Left / Right:** previous / next slide.
-- **Space / Down:** next animation step.
-- **H:** hide or show the bottom navigation bar.
-
-## Reading version
-
-The ZIP also contains `defense_full.pdf`, showing the final frame of each slide. Use the HTML to see the animations.
-
-Slide labels retain the original review numbering, including inserted and omitted slides.
+Use Left and Right to change slides, Down for the next animation step, and H to toggle the toolbar. Use the browser’s full-screen mode to present.
 
 [All releases](https://github.com/samgirr/phd-defense-slides/releases)
